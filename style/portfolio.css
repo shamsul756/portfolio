@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+     background-color: #FFF8F3;
 }
 font-open-sans{ 
   font-family: "Open Sans", sans-serif;
@@ -55,4 +56,12 @@ nav .menu a{
     color: #474747;
     font-size: 20px;
     text-decoration: none;
+}
+#banner{
+    /* border: 1px solid red; */
+    margin: 47px 38px 0 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
 }
