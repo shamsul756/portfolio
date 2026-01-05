@@ -11,6 +11,48 @@ font-open-sans{
   font-variation-settings:
   "wdth" 100;
 }
+
+
+/* main-style */
+.logo h2{
+    font-size: 45px;
+    font-weight: 900px;
+}
+.btn{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    align-items: center;
+}
+.color-orange{
+    color: #FD6E0A;
+    
+}
 header{
     background-color: #FFF8F3;
+    padding-top : 50px;
+}
+nav{
+    width: 71%;
+    max-width: 1140px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .menu{
+    display: flex;
+    list-style-type: none;
+    gap: 51px;
+    align-items:center;
+}
+nav .menu a{
+    color: #474747;
+    font-size: 20px;
+    text-decoration: none;
 }
