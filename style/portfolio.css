@@ -14,7 +14,15 @@
     "wdth" 100;
 }
 header{
-    background-color: #ffe791;
+    background-color: #FFF8F3;
+    padding-top: 50px;
+    
+}
+nav{
+    width: 68%;
+    max-width: 1140px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
 }
 .logo h2{
     font-size: 45px;
