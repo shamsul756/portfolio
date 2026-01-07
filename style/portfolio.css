@@ -60,7 +60,7 @@ header{
     background-color: #FFF8F3;
     background:url(../images/developer.png) ,url(../images/header_bg.png) #FFF8F3;
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
+    background-position: 70px 2px, bottom right;
     padding: 0 0 0 175px, 0 175px 0 0;
     padding-top: 50px;
     
